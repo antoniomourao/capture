@@ -5,3 +5,21 @@ hello
 outro hello
 mais uma SVGPathSegLinetoHorizontalRel
 ============
+Este é o branch test-gf 
+=======
+Este é outro commit "mais um commit"
+========
+agora
+SVGPathSegCurvetoQuadraticSmoothAbs
+sem paragens
+====
+mais um 
+este 
+e o dois de um 
+=====
+1de2
+=====
+2de2
+=====
+a) 1de2
+b) 2de2
