@@ -23,3 +23,5 @@ e o dois de um
 =====
 a) 1de2
 b) 2de2
+=====
+SRM-X 1de1 2de2
