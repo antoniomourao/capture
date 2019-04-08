@@ -37,4 +37,4 @@ beta 1.2
 beta 2.2
 =================== Beta
 SRM-X1---2
-release alpha 1
+release alpha 1, 2
