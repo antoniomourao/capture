@@ -32,10 +32,5 @@ start 13b (2)
 13c
 13c (2)
 alpha.2======
-<<<<<<< HEAD
 alpha 3======
-=======
-alpha 3======
-bug 1.2
-alfa.4.1
->>>>>>> release-0.0.1.alpha.4
+beta 1.2
