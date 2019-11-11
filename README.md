@@ -1,3 +1,1 @@
-This text was added in brach test1 (outravez)
-
-MAIS uma entrada no registo....
+CAPTURE
